@@ -1,0 +1,6 @@
+{
+  "name": "Physical Science A/L System",
+  "description": "G.C.E. Advanced Level Physical Science study, derivation studio, dimensional analysis, interactive lab simulations, and Z-score mastery platform for Combined Mathematics, Physics, Chemistry, and ICT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
